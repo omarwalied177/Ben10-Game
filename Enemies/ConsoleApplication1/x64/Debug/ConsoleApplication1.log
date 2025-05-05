@@ -1,0 +1,13 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+C:\Users\saagr\OneDrive\Dokumenty\شهد\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(17,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\saagr\OneDrive\Dokumenty\شهد\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(23,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\saagr\OneDrive\Dokumenty\شهد\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(72,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saagr\OneDrive\Dokumenty\شهد\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(72,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saagr\OneDrive\Dokumenty\شهد\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(95,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saagr\OneDrive\Dokumenty\شهد\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(95,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saagr\OneDrive\Dokumenty\شهد\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(135,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saagr\OneDrive\Dokumenty\شهد\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(135,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saagr\OneDrive\Dokumenty\شهد\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(204,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saagr\OneDrive\Dokumenty\شهد\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(204,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\saagr\OneDrive\Dokumenty\شهد\SFML Template\SFML Template\x64\Debug\SFML Template.exe
